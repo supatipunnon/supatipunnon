@@ -1,17 +1,23 @@
+# $$\Theta\omega\Theta$$ $$I'm\ NongNon.\ Nice\ to\ meet\ you.$$
+```
+--INFO--
+Name: Non (Nattanon Ou-anunkul)
+Aliases: NongNon, นนท์ย่าม, New
+Description: "I'm a Computer Science student, KMITL. Loving competition and meetup events"
+---
+```
+
+## Archivement
 [![@nongnon's Holopin board](https://holopin.me/nongnon)](https://holopin.io/@nongnon)
-### Hi there 👋
 
-<!--
-**NongNon/nongnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Notebook
+### CS-KMITL
+-
+### CTF
+- 
+### Coding
+-
+### Event
+-
+### etc
+-
