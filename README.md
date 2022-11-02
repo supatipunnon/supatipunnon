@@ -11,14 +11,4 @@
 ## Archivement
 [![@nongnon's Holopin board](https://holopin.me/nongnon)](https://holopin.io/@nongnon)
 
-## Notebook
-### CS-KMITL
--
-### CTF
-- 
-### Coding
--
-### Event
--
-### etc
--
+
